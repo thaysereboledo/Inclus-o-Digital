@@ -1,0 +1,83 @@
+.cabecalho{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: flex-start;
+    border: 20%;
+    padding: 25px;
+    border: 10px;
+}
+
+.logo{
+    width: 15%;
+    background-color: rgba(219, 67, 29, 0.938);
+    margin-right: 15px;
+    width: 20%;
+    text-align: center;
+}
+
+.nome{
+    border: 40px;
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    width: 80%;
+    text-align: right;
+    padding: 10px;
+}
+
+.textoprincipal{
+    background-color: whitesmoke;
+    margin-top:10px;
+    display: flex;
+    align-content: space-around;
+}
+
+.video{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    width: 100%;
+}
+
+.rodape{
+    align-items: center;
+    margin: 10px;
+    border: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input, button{
+    margin:10px;
+}
+
+.imagem{
+    margin: 10px;
+}
+
+.texto{
+    margin: 30px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.login{
+    background-color: rgb(197, 224, 247);
+}
